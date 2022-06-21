@@ -15,4 +15,7 @@
 * Git,командная работа
 * Понимание принципов ООП
 * JavaScript, DOM + BOM.
+
+
+
 ![alt text](img/M97pz1D5Hqw.jpg)
