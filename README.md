@@ -15,7 +15,15 @@
 * Git,командная работа
 * Понимание принципов ООП
 * JavaScript, DOM + BOM.
+Мои работы:
+* ссылка
+* ссылка
+* ссылка
 
+Контакты:
+тел. +79780028303
+email: NeoGame555@inbox.ru
+vk: https://vk.com/paonyao
 
 
 ![alt text](img/M97pz1D5Hqw.jpg)
